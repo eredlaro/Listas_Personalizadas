@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica_4_Listas_Personalizadas</string>
+    <string name="nombre">Nombre :</string>
+    <string name="precio">Precio : $</string>
+</resources>
